@@ -1,3 +1,4 @@
+out.close();
 BufferedWriter out = null;
 OracleJdbcTest test = new OracleJdbcTest();
 BufferedWriter out = null;
