@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 public class OracleJdbcTest
 Properties props = new Properties();
 public static void main(String[] args)
